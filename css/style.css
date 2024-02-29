@@ -90,7 +90,9 @@ ul {
   cursor: pointer;
   background: #4d5ae5;
 }
-.hero-btn:hover,
+.hero-btn:hover {
+  color: #404bbf;
+}
 .hero-btn:focus {
   color: #404bbf;
 }
@@ -109,6 +111,7 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .features-item-text {
   font-size: 16px;
@@ -128,6 +131,7 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
+  color: #2e2f42;
 }
 .team-list {
 }
@@ -142,6 +146,7 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #2e2f42;
 }
 .team-item-text {
   font-size: 16px;
@@ -161,6 +166,7 @@ ul {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   text-align: center;
+  color: #2e2f42;
 }
 .portfolio-list {
 }
@@ -173,6 +179,7 @@ ul {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .portfolio-item-text {
   font-size: 16px;
