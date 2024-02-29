@@ -90,11 +90,9 @@ ul {
   cursor: pointer;
   background: #4d5ae5;
 }
-.hero-btn:hover {
-  color: #404bbf;
-}
+.hero-btn:hover,
 .hero-btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 /** ==============features================ */
@@ -202,7 +200,7 @@ ul {
   color: #4d5ae5;
 }
 
-.footer-link span {
+.footer-span {
   color: #f4f4fd;
 }
 .footer-text {
